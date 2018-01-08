@@ -1,5 +1,4 @@
 # ReactNativeUtil
-# 合则盛，散则亡。
 记录工作中遇到的一些问题（issues）
 收集一些工具类方便使用 在issure中通过label检索,欢迎大家丰富内容。
 目标是让大家轻松的学习rn。
